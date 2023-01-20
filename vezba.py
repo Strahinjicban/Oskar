@@ -15,7 +15,7 @@ else:
     
 if godiste > 1999:
     print ("mator")
-elif godiste==1989:
+elif godiste==1999:
     print("odlican")
 
 else:
