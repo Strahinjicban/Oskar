@@ -8,14 +8,14 @@ prosecna_brzina = 65
 print(ime) 
 print (prezime)
 print (mesto)
-if prosecna_brzina==100:
+if prosecna_brzina<50:
     print("baba vozac")
 else:
     print("majstor") 
     
-if godiste < 1999:
+if godiste > 1999:
     print ("mator")
-elif godiste==1932:
+elif godiste==1989:
     print("odlican")
 
 else:
